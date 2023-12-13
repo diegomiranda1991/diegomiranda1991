@@ -1,8 +1,8 @@
 
 
-<strong>Full Stack Engineer | Mern | Mevn | Next.js | Laravel | Python</strong>
+<strong>Full Stack-Engineer | Mern | Mevn | Next.js | Laravel | Python</strong>
 
-A senior full-stack engineer with over 10 years of experience and a bachelor’s degree in computer science. Able to work on both frontend and backend., but mainly prefer to work on frontend.
+A senior full-stack engineer with over 10 years of experience and a bachelor’s degree in computer science. Able to work on both frontend and backend, but mainly prefer to work on frontend.
 
 What I offer:
 
