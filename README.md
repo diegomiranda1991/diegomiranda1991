@@ -11,16 +11,22 @@ A senior full-stack engineer with over 10 years of experience and a bachelor’s
 What I offer:
 👑  [ FRONTEND ] 
 
-  ★ HTML, CSS, SCSS, Bootstrap, Tailwind CSS, PHP, jQuery, JavaScript, TypeScript, ES6+ 
+     ★ HTML, CSS, SCSS, Bootstrap, Tailwind CSS, PHP, jQuery, JavaScript, TypeScript, ES6+ 
+  
   ★ React, React Native, Next.js, Redux, React Hooks, Vue, Nuxt.js, Material UI, Semantic UI, Styped-components
+  
   ★ D3.js, Three.js, Babylon.js, Svelte, SvelteKit, 
 
 👑  [ BACKEND ] 
+
   ★ Node.js, Express, Nest, Laravel, Python
+  
   ★ MongoDB, MySQL, PostgreSQL, GraphQL, Firebase, Supabase, Redis
 
 👑  [ Blockchain ] 
+
 ★ Web3.js, Ethers.js
+
 ★ Solidity, Smart Contract
 
 
